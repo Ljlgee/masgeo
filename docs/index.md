@@ -13,4 +13,8 @@
 
 ## Features
 
--   TODO
+-   Generate random numbers
+
+## Demos
+
+![](https://th.bing.com/th/id/OIP.ePW1U2Zyyb8db8AiuBKCbgHaHC?w=182&h=180&c=7&r=0&o=5&dpr=2&pid=1.7)
