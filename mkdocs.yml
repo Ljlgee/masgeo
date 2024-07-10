@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/Ljlgee/masgeo/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/random.ipynb
     - API Reference:
           - masgeo module: masgeo.md
           - common module: common.md
